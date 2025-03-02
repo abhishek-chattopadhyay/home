@@ -25,7 +25,7 @@ author:
   avatar           : "5.jpeg"
   name             : "Abhishek Chattopadhyay"
   pronouns         : "he/him"  
-  bio              : "Data Science and Machine Learning Trainee"
+  bio              : "Data Science and Machine Learning Trainee @ Ironhack"
   location         : "Darmstadt, Germany"
   employer         : "Technical University Darmstadt"
   uri              : # URL
@@ -81,8 +81,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #conferences:
+  # title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
