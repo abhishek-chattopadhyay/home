@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "5.jpeg"
   name             : "Abhishek Chattopadhyay"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Data Science and Machine Learning Trainee"
   location         : "Darmstadt, Germany"
   employer         : "Technical University Darmstadt"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
