@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Physical Chemistry, Technical University Darmstadt, Germany, 2021 - 2025 (expected)
+* M.Sc. in Chemistry, Indian Institute of Technology Kanpur, India, 2017 - 2019
+* B.Sc. in Chemistry, Ramakrishna Mission Vidyamandira, India, 2014 - 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct, 2021 - Dec, 2024: Scientific Research Assistant
+  * Technical University of Darmstadt, Germany
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov, 2019 - Oct 2020: Research Assistant
+  * Ruhr University Bochum, Germany
   
 Skills
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
