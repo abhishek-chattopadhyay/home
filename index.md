@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-<img src="/data/formal-photo-1-canva.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+<img src="{{ '/data/formal-photo-1-canva.jpg' | relative_url }}" alt="Profile Picture" width="150" style="border-radius: 50%;">
+
 
 # Welcome to my official website
 
