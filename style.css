@@ -68,3 +68,16 @@ footer {
 iframe {
   border-radius: 8px;
 }
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2em;
+  margin-top: 1.5em;
+}
+
+.video-grid iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 12px;
+}
