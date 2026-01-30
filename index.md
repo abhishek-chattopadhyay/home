@@ -17,18 +17,10 @@ In 2026, I joined Maastricht University as a model steward for the VHP4Safety pr
 
 Beyond research, I enjoy exploring nature through hiking and traveling, experimenting with new recipes in the kitchen, and playing guitar in my free time. I am also passionate about data science and AI and love sharing AI insights with broader audiences.
 
-<p class="home-links">
-  <a href="/cv/">CV</a>
-  <a href="/portfolio/">Portfolio</a>
-  <a href="/vlogs/">Vlogs</a>
-  <a href="/talks/">Talks</a>
-</p>
-
 <p class="home-contact">
-  <a href="mailto:your.email@domain.com">Email</a>
-  · <a href="https://github.com/USERNAME" target="_blank">GitHub</a>
-  · <a href="https://scholar.google.com/citations?user=ID" target="_blank">Google Scholar</a>
-  · <a href="https://www.youtube.com/@CHANNEL" target="_blank">YouTube</a>
+  <a href="mailto:a.chattopadhyay@maastrichtuniversity.nl">Email</a>
+  · <a href="https://github.com/abhishek-chattopadhyay" target="_blank">GitHub</a>
+  · <a href="https://linkedin.com/in/a-chattopadhyay" target="_blank">Linkedin</a>
 </p>
 
 </div>
