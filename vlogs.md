@@ -10,8 +10,19 @@ permalink: /vlogs/
   width="100%"
   height="360"
   src="https://www.youtube.com/embed/d5BVJlHF_gs"
-  title="YouTube video player"
+  title="Interlaken"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+<iframe
+  width="100%"
+  height="360"
+  src="https://www.youtube.com/embed/SxG11lbDCVE1iOO"
+  title="Bern"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
