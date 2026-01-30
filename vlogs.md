@@ -19,7 +19,7 @@ permalink: /vlogs/
 <iframe
   width="100%"
   height="360"
-  src="https://www.youtube.com/embed/SxG11lbDCVE1iOO"
+  src="https://www.youtube.com/embed/wGkiixw1pac"
   title="Bern"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
