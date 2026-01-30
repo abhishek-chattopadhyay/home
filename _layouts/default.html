@@ -4,20 +4,28 @@
     <meta charset="UTF-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/style.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+
   </head>
   <body>
-    <header style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2em;">
-      <!--  <div style="display: flex; align-items: center;">
-          <img src="{{ '/data/formal-photo-1-canva.jpg' | relative_url }}" alt="Profile Picture" width="80" height="80" style="border-radius: 50%; margin-right: 15px; object-fit: cover;">
-          <h1 style="margin: 0;">{{ site.title }}</h1>
-        </div> -->
-        <nav>
-          <a href="{{ "/" | relative_url }}">Home</a> |
-          <a href="{{ "/cv" | relative_url }}">CV</a> |
-          <a href="{{ "/portfolio" | relative_url }}">Portfolio</a> |
-          <a href="{{ "/talks" | relative_url }}">Talks</a>
-        </nav>
-      </header>      
+
+    <header class="site-header">
+      <div class="identity">
+        <img src="{{ '/data/formal-photo-1-canva.jpg' | relative_url }}" alt="Profile photo">
+        <span class="name">{{ site.title }}</span>
+      </div>
+
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/cv' | relative_url }}">CV</a>
+        <a href="{{ '/portfolio' | relative_url }}">Portfolio</a>
+        <a href="{{ '/talks' | relative_url }}">Talks</a>
+        <a href="{{ '/vlogs' | relative_url }}">Vlogs</a>
+      </nav>
+    </header>
+    
     <main>
       {{ content }}
     </main>
