@@ -1,56 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/style.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
 
-    <title>{{ page.title }} · {{ site.title }}</title>
-    <meta name="description" content="{{ site.description | default: 'Personal Website' }}" />
-
-    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
-
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
-      rel="stylesheet"
-    />
   </head>
-
   <body>
-    <a class="skip-link" href="#main">Skip to content</a>
 
     <header class="site-header">
-      <div class="container header-inner">
-        <a class="identity" href="{{ '/' | relative_url }}">
-          <img
-            src="{{ '/data/formal-photo-1-canva.jpg' | relative_url }}"
-            alt="Profile photo"
-            loading="lazy"
-          />
-          <span class="name">{{ site.title }}</span>
-        </a>
-
-        <nav class="nav">
-          <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-          <a class="nav-link {% if page.url contains '/cv' %}active{% endif %}" href="{{ '/cv' | relative_url }}">CV</a>
-          <a class="nav-link {% if page.url contains '/portfolio' %}active{% endif %}" href="{{ '/portfolio' | relative_url }}">Portfolio</a>
-          <a class="nav-link {% if page.url contains '/talks' %}active{% endif %}" href="{{ '/talks' | relative_url }}">Talks</a>
-          <a class="nav-link {% if page.url contains '/vlogs' %}active{% endif %}" href="{{ '/vlogs' | relative_url }}">Vlogs</a>
-          <a class="nav-link {% if page.url contains '/contact' %}active{% endif %}" href="{{ '/contact' | relative_url }}">Contact</a>
-        </nav>
+      <div class="identity">
+        <img src="{{ '/data/formal-photo-1-canva.jpg' | relative_url }}" alt="Profile photo">
+        <span class="name">{{ site.title }}</span>
       </div>
-    </header>
 
-    <main id="main" class="container page">
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/cv' | relative_url }}">CV</a>
+        <a href="{{ '/portfolio' | relative_url }}">Portfolio</a>
+        <a href="{{ '/talks' | relative_url }}">Talks</a>
+        <a href="{{ '/vlogs' | relative_url }}">Vlogs</a>
+      </nav>
+    </header>
+    
+    <main>
       {{ content }}
     </main>
-
-    <footer class="site-footer">
-      <div class="container footer-inner">
-        <p>© {{ site.title }}, {{ site.time | date: "%Y" }}</p>
-        <p class="muted">Built with Jekyll · Hosted on GitHub Pages</p>
-      </div>
+    <footer>
+      <p>© {{ site.title }}, {{ site.time | date: "%Y" }}</p>
     </footer>
   </body>
 </html>
