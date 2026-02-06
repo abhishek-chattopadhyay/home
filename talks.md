@@ -6,7 +6,6 @@ permalink: /talks/
 
 # Talks
 
-<<<<<<< HEAD
 <div class="grid grid-2">
   <div class="card">
     <h3>AI for Chemistry</h3>
@@ -20,7 +19,3 @@ permalink: /talks/
     <p>Add slides/video link if available.</p>
   </div>
 </div>
-=======
-- *AI for Chemistry* – TU Darmstadt, 2023
-- *Open Science and Reproducibility* – Ruhr University, 2022
->>>>>>> parent of 37de992 (Upated all the files)
