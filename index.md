@@ -8,13 +8,10 @@ title: Home
 
   <div>
     <div class="kicker">
-      <span class="pill"><span class="pill-dot"></span> Currently: Model Steward @ Maastricht University (VHP4Safety)</span>
-      <span class="pill">Computational Chemistry · Data Science · ML</span>
-    </div>
-
-    <h1>Hi, I'm Abhishek.</h1>
+      <span class="pill"><span class="pill-dot"></span> Model Steward @ Maastricht University, The Netherlands
+    <h3>Hi, I'm Abhishek.</h3>
     <p class="lede">
-      I work at the intersection of computational chemistry and data-driven modeling—building robust, reproducible workflows and helping computational models become trustworthy tools for chemical safety and scientific discovery.
+      I work at the intersection of toxicology and systems biology, data science, AI, FAIR data principles and helping computational models become trustworthy tools for chemical safety and scientific discovery.
     </p>
 
     <div class="actions">
@@ -32,7 +29,7 @@ title: Home
 I completed my B.Sc. in Chemistry at the University of Calcutta (2017), then my M.Sc. at IIT Kanpur (2019).  
 From 2019–2020, I worked at Ruhr University Bochum (Prof. Dominik Marx) on the computational chemistry of nanoconfined ionic solutions.
 
-From 2021–2025, I was a scientific researcher at TU Darmstadt (Prof. Nico van der Vegt), where I developed an in-silico methodology to predict material solubility by combining molecular dynamics simulations with data-driven modeling approaches.
+From 2021–2025, I was a scientific researcher at Technical University Darmstadt in Germany (Prof. Nico van der Vegt), where I developed an in-silico methodology to predict material solubility by combining molecular dynamics simulations and Kirkwood-Buff theory.
 
 In 2026, I joined Maastricht University as a Model Steward for the VHP4Safety project, contributing to the development, validation, and responsible use of computational models in chemical safety assessment.
 
