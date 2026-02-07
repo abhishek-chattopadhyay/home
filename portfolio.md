@@ -17,6 +17,6 @@ A selection of things I’ve worked on.
       <span class="tag">Physical Chemistry</span>
     </div>
     <p class="muted" style="margin-top:0.85rem;">
-      [Link](https://doi.org/10.1063/5.0264104)
+       <a href="https://doi.org/10.1063/5.0264104">Link</a>
     </p>
   </div>
