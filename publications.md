@@ -11,4 +11,3 @@ permalink: /publications/
     <p class="muted">Ruhr University · 2022</p>
     <p>Add slides/video link if available.</p>
   </div>
-</div>
