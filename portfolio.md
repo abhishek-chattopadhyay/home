@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Portfolio
+## Portfolio
 
 A selection of things I’ve worked on. If you’d like a tailored list for a role/collaboration, feel free to reach out.
 

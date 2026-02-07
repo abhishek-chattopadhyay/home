@@ -4,7 +4,7 @@ title: Vlogs
 permalink: /vlogs/
 ---
 
-# Vlogs
+## Vlogs
 
 A few travel clips and moments.
 

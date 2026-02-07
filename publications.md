@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+## Publications
 
   <div class="card">
     <h3>Open Science and Reproducibility</h3>

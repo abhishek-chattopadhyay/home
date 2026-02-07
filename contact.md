@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
+## Contact
 
 If you'd like to collaborate, invite me to speak, or discuss data science / modeling work, feel free to reach out.
 
