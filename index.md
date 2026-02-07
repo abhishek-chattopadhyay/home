@@ -8,7 +8,7 @@ title: Home
 
   <div>
     <div class="kicker">
-      <span class="pill"><span class="pill-dot"></span> Currently: Model Steward @ Maastricht University (VHP4Safety)</span>
+      <span class="pill"><span class="pill-dot"></span> Currently: Model Steward at Maastricht University, The Netherlands </span>
       <span class="pill">Computational Chemistry · Data Science · ML</span>
     </div>
 
@@ -32,11 +32,11 @@ title: Home
 I completed my B.Sc. in Chemistry at the University of Calcutta (2017), then my M.Sc. at IIT Kanpur (2019).  
 From 2019–2020, I worked at Ruhr University Bochum (Prof. Dominik Marx) on the computational chemistry of nanoconfined ionic solutions.
 
-From 2021–2025, I was a scientific researcher at TU Darmstadt (Prof. Nico van der Vegt), where I developed an in-silico methodology to predict material solubility by combining molecular dynamics simulations with data-driven modeling approaches.
+From 2021–2025, I was a scientific researcher at TU Darmstadt (Prof. Nico van der Vegt), where I developed an in-silico methodology to predict material solubility by combining molecular dynamics simulations with Kirkwood-Buff theory.
 
-In 2026, I joined Maastricht University as a Model Steward for the VHP4Safety project, contributing to the development, validation, and responsible use of computational models in chemical safety assessment.
+In 2026, I joined Maastricht University as a Model Steward for the [VHP4Safety](https://platform.vhp4safety.nl/) project, contributing to the collection, validation, and packaging of toxicological models in chemical safety assessment based on FAIR principle and making them interoperable using RO-Crate and AI.
 
-Beyond research, I enjoy hiking and traveling, cooking, and playing guitar. I also like sharing AI insights with broader audiences.
+Beyond academic research and programming, I enjoy hiking, traveling, cooking, chess and playing guitar. I also like sharing AI insights with broader audiences.
 
 <div class="hr"></div>
 
